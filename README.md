@@ -63,4 +63,26 @@ The model shows good performance with minor overfitting, improved using techniqu
 Install dependencies using:
 
 ```bash
-pip install -r requirementSC.txt
+pip install -r requirementSC.txt 
+```
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/intersectionblank/mnist-digit-classifier.git
+
+Open Jupyter Notebook 
+
+MNIST_Tensorflow.ipynb
+
+OR open it directly in:
+
+Jupyter Notebook
+Google Colab
+
+## 👨‍💻 Author
+Ilias Papoulias
+
+University Project – MNIST Neural Network Classification
